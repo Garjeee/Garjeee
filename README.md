@@ -1,6 +1,7 @@
 - Hello, I’m @Garjeee
-- Student
-- United Kingdom
+- Student @cardiffmet University
+- Based in United Kingdom
+- Polish
 - Discord : Garje#1987
 
 
